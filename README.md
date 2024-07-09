@@ -8,3 +8,13 @@
 ---
 [hyperlink](https://www.example.com)
 ![Image for example](https://distribution.faceit-cdn.net/images/f84167ee-61b6-495c-b47e-18a5acccd97f.jpeg)
+
+HEAD -- это голова.
+Коммит -- это всему голова.
+Статусы файлов:
+<тут пустая строка!>
+
+```mermaid
+%% описание схемы
+```
+<и тут пустая строка!> `
